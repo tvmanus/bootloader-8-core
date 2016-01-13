@@ -1,0 +1,12 @@
+
+PDK_INSTALL_PATH    = ../../../..
+CSL_INSTALL_PATH    = ../../../..
+CPPI_INSTALL_PATH   = ../../../..
+QMSS_INSTALL_PATH   = ../../../..
+PASS_INSTALL_PATH   = ../../../..
+SA_INSTALL_PATH     = ../../../..
+MAS_INSTALL_PATH    = ../../../..
+SRIO_INSTALL_PATH   = ../../../..
+PCIE_INSTALL_PATH   = ../../../..
+HYPLNK_INSTALL_PATH = ../../../..
+TSIP_INSTALL_PATH   = ../../../..

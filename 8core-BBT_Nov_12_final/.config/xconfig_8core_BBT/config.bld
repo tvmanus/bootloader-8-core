@@ -1,0 +1,8 @@
+/* THIS IS A GENERATED FILE -- DO NOT EDIT */
+/* configuro was passed a config.bld file */
+xdc.includeFile("D:/workspace_v5_2/8core-BBT/.config/xconfig_loopbackDioIsr/config.bld");
+/* configuro was passed the target's name explicitly */
+var target  = xdc.module('ti.targets.elf.C66');
+Build.targets = [target];
+/* configuro was passed the target's rootDir explicitly */
+Build.targets[0].rootDir = 'D:/Program Files (x86)/Texas Instruments/ccsv5/tools/compiler/c6000_7.3.4';

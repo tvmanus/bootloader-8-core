@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_8core_BBT.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b150
+package/.xdc-y25
+package/xconfig_8core_BBT.java
+package/xconfig_8core_BBT.class
+package/package_xconfig_8core_BBT.c
+package/package.defs.h
+package/xconfig_8core_BBT.ccs
